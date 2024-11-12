@@ -1,0 +1,9 @@
+{
+  "domain": "notifierservice.vip",
+  "psw": "Pafola",
+  "sport": 1080,
+  "sbind": "127.0.0.1",
+  "wkip": "104.16.0.1",
+  "byip": "",
+  "cfhs": ["ipip.net", ""]
+}
